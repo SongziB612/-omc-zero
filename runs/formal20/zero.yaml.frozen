@@ -1,0 +1,13 @@
+candidate_pool_n: 200
+committee_size: 5
+decision:
+  alpha: 0.05
+  disagreement_floor_ratio: 0.5
+failed_run_penalty_factor: 2.0
+max_rounds: 40
+n_seeds: 20
+pull_k: 5
+query_cost: 1.0
+task_query_cap: 25
+theta_rep: 0.05
+theta_star: 0.01

@@ -1,0 +1,221 @@
+{
+  "verdict": "CAUTION",
+  "p_value": 5e-05,
+  "median_L_diff_control_minus_treatment": 8.25,
+  "ci95": [
+    1.75,
+    19.25
+  ],
+  "n_seeds": 20,
+  "mean_disagreement_control": 0.32474990490164307,
+  "mean_disagreement_treatment": 0.12528931997121792,
+  "disagreement_ratio_treatment_over_control": 0.3858024839427259,
+  "diagnostics": {
+    "mean_replication_rate_treatment": 0.7856074481074481,
+    "control_seeds_hitting_budget_ceiling": 12,
+    "treatment_seeds_at_query_floor": 0
+  },
+  "elapsed_s": 10.679650783538818,
+  "per_seed": [
+    {
+      "seed": 0,
+      "L_control": 50.0,
+      "L_treatment": 50.0,
+      "disagreement_control": 1.5834015774767265,
+      "disagreement_treatment": 0.39047133997825406,
+      "replication_rate": 0.2727272727272727,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 1,
+      "L_control": 14.0,
+      "L_treatment": 16.5,
+      "disagreement_control": 0.007566402795151856,
+      "disagreement_treatment": 0.05593105379476291,
+      "replication_rate": 1.0,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 2,
+      "L_control": 50.0,
+      "L_treatment": 21.0,
+      "disagreement_control": 0.24242863709479726,
+      "disagreement_treatment": 0.02165538239655914,
+      "replication_rate": 0.5,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 3,
+      "L_control": 50.0,
+      "L_treatment": 21.5,
+      "disagreement_control": 0.4094220007589656,
+      "disagreement_treatment": 0.01129800143321894,
+      "replication_rate": 0.7,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 4,
+      "L_control": 19.5,
+      "L_treatment": 18.0,
+      "disagreement_control": 0.11768099190510979,
+      "disagreement_treatment": 0.005598141170086006,
+      "replication_rate": 0.6666666666666666,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 5,
+      "L_control": 22.5,
+      "L_treatment": 19.0,
+      "disagreement_control": 0.10029308123891953,
+      "disagreement_treatment": 0.058906190966293806,
+      "replication_rate": 0.75,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 6,
+      "L_control": 16.0,
+      "L_treatment": 15.5,
+      "disagreement_control": 0.04589827364678983,
+      "disagreement_treatment": 0.1041173629879471,
+      "replication_rate": 1.0,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 7,
+      "L_control": 50.0,
+      "L_treatment": 21.0,
+      "disagreement_control": 0.33676800937340406,
+      "disagreement_treatment": 0.011487544442129885,
+      "replication_rate": 0.6666666666666666,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 8,
+      "L_control": 50.0,
+      "L_treatment": 37.0,
+      "disagreement_control": 0.4972260811207081,
+      "disagreement_treatment": 0.8510110943308795,
+      "replication_rate": 0.6923076923076923,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 9,
+      "L_control": 20.5,
+      "L_treatment": 17.0,
+      "disagreement_control": 0.04132517442847976,
+      "disagreement_treatment": 0.06220623794711036,
+      "replication_rate": 0.75,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 10,
+      "L_control": 19.0,
+      "L_treatment": 16.0,
+      "disagreement_control": 0.07633571626746445,
+      "disagreement_treatment": 0.01900241658244962,
+      "replication_rate": 1.0,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 11,
+      "L_control": 18.0,
+      "L_treatment": 16.0,
+      "disagreement_control": 0.058576939246598375,
+      "disagreement_treatment": 0.010724587464782867,
+      "replication_rate": 1.0,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 12,
+      "L_control": 35.5,
+      "L_treatment": 17.0,
+      "disagreement_control": 0.1932594440930253,
+      "disagreement_treatment": 0.03665104073348084,
+      "replication_rate": 1.0,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 13,
+      "L_control": 37.5,
+      "L_treatment": 18.5,
+      "disagreement_control": 0.5113426837647835,
+      "disagreement_treatment": 0.00520522771509856,
+      "replication_rate": 0.7142857142857143,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 14,
+      "L_control": 36.5,
+      "L_treatment": 17.0,
+      "disagreement_control": 0.3099212649632121,
+      "disagreement_treatment": 0.008427321647703477,
+      "replication_rate": 0.75,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 15,
+      "L_control": 50.0,
+      "L_treatment": 50.0,
+      "disagreement_control": 0.7264843271050773,
+      "disagreement_treatment": 0.7621927756727758,
+      "replication_rate": 0.7272727272727273,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 16,
+      "L_control": 50.0,
+      "L_treatment": 17.0,
+      "disagreement_control": 0.4527197027103807,
+      "disagreement_treatment": 0.0064490186141536,
+      "replication_rate": 1.0,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 17,
+      "L_control": 22.0,
+      "L_treatment": 20.5,
+      "disagreement_control": 0.08737081209416882,
+      "disagreement_treatment": 0.06810906471191615,
+      "replication_rate": 0.8,
+      "control_hit_ceiling": false,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 18,
+      "L_control": 36.0,
+      "L_treatment": 19.5,
+      "disagreement_control": 0.47990700795146085,
+      "disagreement_treatment": 0.00565143427784587,
+      "replication_rate": 0.8888888888888888,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    },
+    {
+      "seed": 19,
+      "L_control": 50.0,
+      "L_treatment": 18.0,
+      "disagreement_control": 0.2170699699976383,
+      "disagreement_treatment": 0.010691162556910204,
+      "replication_rate": 0.8333333333333334,
+      "control_hit_ceiling": true,
+      "treatment_at_floor": false
+    }
+  ]
+}
