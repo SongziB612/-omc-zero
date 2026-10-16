@@ -1,0 +1,40 @@
+{"seed": 0, "group": "control", "round": 0, "agent0_step": {"disagreement": NaN, "queries_used": 1}, "agent1_step": {"disagreement": NaN, "queries_used": 1}, "mse": [42.197715218118155, 42.197715218118155], "queries_used": [1, 1]}
+{"seed": 0, "group": "control", "round": 1, "agent0_step": {"disagreement": NaN, "queries_used": 2}, "agent1_step": {"disagreement": NaN, "queries_used": 2}, "mse": [9.165308631687013, 9.165308631687013], "queries_used": [2, 2]}
+{"seed": 0, "group": "control", "round": 2, "agent0_step": {"disagreement": NaN, "queries_used": 3}, "agent1_step": {"disagreement": NaN, "queries_used": 3}, "mse": [11.963069268199412, 22.22557552848833], "queries_used": [3, 3]}
+{"seed": 0, "group": "control", "round": 3, "agent0_step": {"disagreement": NaN, "queries_used": 4}, "agent1_step": {"disagreement": NaN, "queries_used": 4}, "mse": [65.76211961553389, 242.8976363457806], "queries_used": [4, 4]}
+{"seed": 0, "group": "control", "round": 4, "agent0_step": {"disagreement": NaN, "queries_used": 5}, "agent1_step": {"disagreement": NaN, "queries_used": 5}, "mse": [234.84261259069143, 545.4370212047446], "queries_used": [5, 5]}
+{"seed": 0, "group": "control", "round": 5, "agent0_step": {"disagreement": 881.5556555623303, "queries_used": 6}, "agent1_step": {"disagreement": 900.7288286839097, "queries_used": 6}, "mse": [59.84096300991675, 88.07438272584484], "queries_used": [6, 6]}
+{"seed": 0, "group": "control", "round": 6, "agent0_step": {"disagreement": 573.496564981402, "queries_used": 7}, "agent1_step": {"disagreement": 796.2822082965516, "queries_used": 7}, "mse": [70.63469088305837, 10.018323532865933], "queries_used": [7, 7]}
+{"seed": 0, "group": "control", "round": 7, "agent0_step": {"disagreement": 676.7222801963214, "queries_used": 8}, "agent1_step": {"disagreement": 121.1859694379929, "queries_used": 8}, "mse": [10.91320073336951, 12.040723060809], "queries_used": [8, 8]}
+{"seed": 0, "group": "control", "round": 8, "agent0_step": {"disagreement": 32.21271338222795, "queries_used": 9}, "agent1_step": {"disagreement": 85.65776513785741, "queries_used": 9}, "mse": [11.345332199239662, 14.107858908902637], "queries_used": [9, 9]}
+{"seed": 0, "group": "control", "round": 9, "agent0_step": {"disagreement": 73.47304682495454, "queries_used": 10}, "agent1_step": {"disagreement": 242.5465057177417, "queries_used": 10}, "mse": [6.62542153107933, 2.3935536698121407], "queries_used": [10, 10]}
+{"seed": 0, "group": "control", "round": 10, "agent0_step": {"disagreement": 52.54704854063313, "queries_used": 11}, "agent1_step": {"disagreement": 40.63694803294027, "queries_used": 11}, "mse": [9.003755934614592, 2.0802957606758814], "queries_used": [11, 11]}
+{"seed": 0, "group": "control", "round": 11, "agent0_step": {"disagreement": 94.683861898782, "queries_used": 12}, "agent1_step": {"disagreement": 27.13652093051966, "queries_used": 12}, "mse": [6.18927667479836, 2.169671859297663], "queries_used": [12, 12]}
+{"seed": 0, "group": "control", "round": 12, "agent0_step": {"disagreement": 16.546954896706957, "queries_used": 13}, "agent1_step": {"disagreement": 27.389479008463763, "queries_used": 13}, "mse": [3.3695530148138717, 8.203073523693881], "queries_used": [13, 13]}
+{"seed": 0, "group": "control", "round": 13, "agent0_step": {"disagreement": 33.21517629546978, "queries_used": 14}, "agent1_step": {"disagreement": 104.33200300524224, "queries_used": 14}, "mse": [5.310425051451149, 3.5042275956196427], "queries_used": [14, 14]}
+{"seed": 0, "group": "control", "round": 14, "agent0_step": {"disagreement": 51.791051806607335, "queries_used": 15}, "agent1_step": {"disagreement": 45.82344650801856, "queries_used": 15}, "mse": [8.231068687662432, 2.929797298600273], "queries_used": [15, 15]}
+{"seed": 0, "group": "control", "round": 15, "agent0_step": {"disagreement": 29.040775057569885, "queries_used": 16}, "agent1_step": {"disagreement": 41.91525665933379, "queries_used": 16}, "mse": [4.651476404443946, 12.279690054451343], "queries_used": [16, 16]}
+{"seed": 0, "group": "control", "round": 16, "agent0_step": {"disagreement": 73.1059076977522, "queries_used": 17}, "agent1_step": {"disagreement": 126.40415904662125, "queries_used": 17}, "mse": [5.520757866373287, 2.909695646380714], "queries_used": [17, 17]}
+{"seed": 0, "group": "control", "round": 17, "agent0_step": {"disagreement": 69.52873050710885, "queries_used": 18}, "agent1_step": {"disagreement": 42.32038924994483, "queries_used": 18}, "mse": [1.6834282047737679, 8.312302031520403], "queries_used": [18, 18]}
+{"seed": 0, "group": "control", "round": 18, "agent0_step": {"disagreement": 30.08150019912735, "queries_used": 19}, "agent1_step": {"disagreement": 88.73483255523672, "queries_used": 19}, "mse": [1.342741965744297, 2.1482743673463944], "queries_used": [19, 19]}
+{"seed": 0, "group": "control", "round": 19, "agent0_step": {"disagreement": 4.930817370708023, "queries_used": 20}, "agent1_step": {"disagreement": 16.201436161118814, "queries_used": 20}, "mse": [0.165371912518408, 0.624137497482212], "queries_used": [20, 20]}
+{"seed": 0, "group": "control", "round": 20, "agent0_step": {"disagreement": 4.807524570423186, "queries_used": 21}, "agent1_step": {"disagreement": 7.082914028381869, "queries_used": 21}, "mse": [0.08909171299516273, 1.8357114253863616], "queries_used": [21, 21]}
+{"seed": 0, "group": "control", "round": 21, "agent0_step": {"disagreement": 2.985805153998438, "queries_used": 22}, "agent1_step": {"disagreement": 86.23249336264816, "queries_used": 22}, "mse": [2.1288798463616057, 0.5001636432338438], "queries_used": [22, 22]}
+{"seed": 0, "group": "control", "round": 22, "agent0_step": {"disagreement": 48.471337203768016, "queries_used": 23}, "agent1_step": {"disagreement": 9.018650343481543, "queries_used": 23}, "mse": [0.30121022277642906, 1.156903111266936], "queries_used": [23, 23]}
+{"seed": 0, "group": "control", "round": 23, "agent0_step": {"disagreement": 5.21808319136561, "queries_used": 24}, "agent1_step": {"disagreement": 15.291968526592015, "queries_used": 24}, "mse": [0.2790696708233083, 1.2880914700832864], "queries_used": [24, 24]}
+{"seed": 0, "group": "control", "round": 24, "agent0_step": {"disagreement": 4.191080101930362, "queries_used": 25}, "agent1_step": {"disagreement": 34.50203802961276, "queries_used": 25}, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 25, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 26, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 27, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 28, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 29, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 30, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 31, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 32, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 33, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 34, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 35, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 36, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 37, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 38, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
+{"seed": 0, "group": "control", "round": 39, "mse": [0.199025564339008, 1.99363798605178], "queries_used": [25, 25]}
