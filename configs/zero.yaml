@@ -1,0 +1,21 @@
+# OMC zero-experiment config.
+# This file is FROZEN (copied to runs/<ts>/zero.yaml.frozen) before the formal run.
+#
+# Budget rule (preregistered 2026-10-16, NOT tuned to treatment results):
+#   task_query_cap = solitary p50 (maximizes headroom for sharing to matter:
+#     ~half the agents can produce shareable knowledge, ~half need help).
+#   Validation is computational and FREE (uses the replicator's own
+#   independent task data, >=15 points). Both groups get identical task caps.
+n_seeds: 20
+theta_star: 0.01
+theta_rep: 0.05
+query_cost: 1.0
+task_query_cap: 25   # solitary p50 (calibrated 2026-10-16)
+max_rounds: 40
+pull_k: 5
+failed_run_penalty_factor: 2.0
+committee_size: 5
+candidate_pool_n: 200
+decision:
+  alpha: 0.05
+  disagreement_floor_ratio: 0.5
