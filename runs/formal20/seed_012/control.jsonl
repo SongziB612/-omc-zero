@@ -1,0 +1,40 @@
+{"seed": 12, "group": "control", "round": 0, "agent0_step": {"disagreement": NaN, "queries_used": 1}, "agent1_step": {"disagreement": NaN, "queries_used": 1}, "mse": [5.0538473987651855, 5.0538473987651855], "queries_used": [1, 1]}
+{"seed": 12, "group": "control", "round": 1, "agent0_step": {"disagreement": NaN, "queries_used": 2}, "agent1_step": {"disagreement": NaN, "queries_used": 2}, "mse": [4.315457793784728, 4.315457793784728], "queries_used": [2, 2]}
+{"seed": 12, "group": "control", "round": 2, "agent0_step": {"disagreement": NaN, "queries_used": 3}, "agent1_step": {"disagreement": NaN, "queries_used": 3}, "mse": [1.4342433016564524, 1.868606542233143], "queries_used": [3, 3]}
+{"seed": 12, "group": "control", "round": 3, "agent0_step": {"disagreement": NaN, "queries_used": 4}, "agent1_step": {"disagreement": NaN, "queries_used": 4}, "mse": [1.3737691536996957, 1.2673452766007947], "queries_used": [4, 4]}
+{"seed": 12, "group": "control", "round": 4, "agent0_step": {"disagreement": NaN, "queries_used": 5}, "agent1_step": {"disagreement": NaN, "queries_used": 5}, "mse": [1.3841077440135283, 7.052425451096559], "queries_used": [5, 5]}
+{"seed": 12, "group": "control", "round": 5, "agent0_step": {"disagreement": 3.9426802073525495, "queries_used": 6}, "agent1_step": {"disagreement": 48.99511202759611, "queries_used": 6}, "mse": [1.2016362426245537, 1.2768200842809783], "queries_used": [6, 6]}
+{"seed": 12, "group": "control", "round": 6, "agent0_step": {"disagreement": 8.45006264323534, "queries_used": 7}, "agent1_step": {"disagreement": 4.998827505798306, "queries_used": 7}, "mse": [7.080552470595911, 0.591738631122804], "queries_used": [7, 7]}
+{"seed": 12, "group": "control", "round": 7, "agent0_step": {"disagreement": 43.019304452666844, "queries_used": 8}, "agent1_step": {"disagreement": 3.8266991563898456, "queries_used": 8}, "mse": [6.222861492034367, 0.6187286282903479], "queries_used": [8, 8]}
+{"seed": 12, "group": "control", "round": 8, "agent0_step": {"disagreement": 54.11309424833083, "queries_used": 9}, "agent1_step": {"disagreement": 4.809985680378114, "queries_used": 9}, "mse": [1.8411861309209052, 0.6019242730730587], "queries_used": [9, 9]}
+{"seed": 12, "group": "control", "round": 9, "agent0_step": {"disagreement": 18.004899548194423, "queries_used": 10}, "agent1_step": {"disagreement": 9.771435121109514, "queries_used": 10}, "mse": [0.3755977371418293, 0.5931372107397612], "queries_used": [10, 10]}
+{"seed": 12, "group": "control", "round": 10, "agent0_step": {"disagreement": 2.0359472140036887, "queries_used": 11}, "agent1_step": {"disagreement": 4.121731325191283, "queries_used": 11}, "mse": [0.4672854497964806, 0.2545703530932], "queries_used": [11, 11]}
+{"seed": 12, "group": "control", "round": 11, "agent0_step": {"disagreement": 5.9306469183346975, "queries_used": 12}, "agent1_step": {"disagreement": 4.652694132394305, "queries_used": 12}, "mse": [0.7996647393836767, 0.3145434788639303], "queries_used": [12, 12]}
+{"seed": 12, "group": "control", "round": 12, "agent0_step": {"disagreement": 7.529763150730249, "queries_used": 13}, "agent1_step": {"disagreement": 4.112547369079306, "queries_used": 13}, "mse": [0.8833283842360518, 0.24677264262039517], "queries_used": [13, 13]}
+{"seed": 12, "group": "control", "round": 13, "agent0_step": {"disagreement": 5.9853170707834895, "queries_used": 14}, "agent1_step": {"disagreement": 1.801515951140395, "queries_used": 14}, "mse": [0.2916838257990801, 0.1671694630136805], "queries_used": [14, 14]}
+{"seed": 12, "group": "control", "round": 14, "agent0_step": {"disagreement": 6.205994021936752, "queries_used": 15}, "agent1_step": {"disagreement": 1.0803853637509904, "queries_used": 15}, "mse": [0.6474098662263754, 0.14991795582216863], "queries_used": [15, 15]}
+{"seed": 12, "group": "control", "round": 15, "agent0_step": {"disagreement": 3.852214194545792, "queries_used": 16}, "agent1_step": {"disagreement": 3.478945381591663, "queries_used": 16}, "mse": [0.4282070329023114, 0.011257680937118788], "queries_used": [16, 16]}
+{"seed": 12, "group": "control", "round": 16, "agent0_step": {"disagreement": 3.892866111486529, "queries_used": 17}, "agent1_step": {"disagreement": 0.047678210494959364, "queries_used": 17}, "mse": [0.20795717599356367, 0.20802335561401286], "queries_used": [17, 17]}
+{"seed": 12, "group": "control", "round": 17, "agent0_step": {"disagreement": 1.9365048661065767, "queries_used": 18}, "agent1_step": {"disagreement": 4.296858521922883, "queries_used": 18}, "mse": [0.15995314635829794, 0.45350204805525957], "queries_used": [18, 18]}
+{"seed": 12, "group": "control", "round": 18, "agent0_step": {"disagreement": 4.166537567577413, "queries_used": 19}, "agent1_step": {"disagreement": 5.268741779530016, "queries_used": 19}, "mse": [0.19691674503919784, 0.38779623897147175], "queries_used": [19, 19]}
+{"seed": 12, "group": "control", "round": 19, "agent0_step": {"disagreement": 3.60992197765895, "queries_used": 20}, "agent1_step": {"disagreement": 1.2774401107449245, "queries_used": 20}, "mse": [0.22136152406180218, 0.09168114348760163], "queries_used": [20, 20]}
+{"seed": 12, "group": "control", "round": 20, "agent0_step": {"disagreement": 2.2650859371030116, "queries_used": 21}, "agent1_step": {"disagreement": 2.5449113290066654, "queries_used": 21}, "mse": [0.08506519424092393, 0.007917930282015845], "queries_used": [21, 21]}
+{"seed": 12, "group": "control", "round": 21, "agent0_step": {"disagreement": 1.7333229878063878, "queries_used": 22}, "mse": [0.1445179650078309, 0.007917930282015845], "queries_used": [22, 21]}
+{"seed": 12, "group": "control", "round": 22, "agent0_step": {"disagreement": 1.4612375712852994, "queries_used": 23}, "mse": [0.08810768076116193, 0.007917930282015845], "queries_used": [23, 21]}
+{"seed": 12, "group": "control", "round": 23, "agent0_step": {"disagreement": 2.023015416969165, "queries_used": 24}, "mse": [0.12547926332116352, 0.007917930282015845], "queries_used": [24, 21]}
+{"seed": 12, "group": "control", "round": 24, "agent0_step": {"disagreement": 3.1257523038246258, "queries_used": 25}, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 25, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 26, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 27, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 28, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 29, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 30, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 31, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 32, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 33, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 34, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 35, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 36, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 37, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 38, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
+{"seed": 12, "group": "control", "round": 39, "mse": [0.04798258535361473, 0.007917930282015845], "queries_used": [25, 21]}
